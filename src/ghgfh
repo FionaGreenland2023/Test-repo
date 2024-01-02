@@ -1,0 +1,7 @@
+<div class="flex gap-3 ">
+              <img src="../images/image-retro-pcs.jpg" class="w-[400px]  h-24" alt="">
+            <div class="">
+              <h4 class="text-3xl font-bold text-gray-300">01</h4>
+              <div class="font-bold text-sm hover:text-red-500"><a href="#">Reviving Retro PCs</a></div>
+              <p class="text-xs text-neutral-500 w-40">What happens when old PCs are given modern upgrades?</p>
+            </div></div>

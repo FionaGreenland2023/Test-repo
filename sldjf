@@ -1,0 +1,27 @@
+<div class="grid grid-cols-12 grid-rows-3 absolute
+      mx-auto left-20 right-20 gap-5 ">
+        <div class="">
+          <div class="col-span-8">
+            <img src="../images/image-web-3-desktop.jpg" 
+            alt="" >
+          </div>
+          <div class="">
+            <div class="bg-deep w-[350px] h-64 p-4">
+              <div class="flex flex-col gap-y-5">
+                <h1 class="text-3xl font-bold text-orange-300">New</h1>
+              <div class="flex flex-col gap-y-3">
+                <p class="text-white font-bold">Hydrogen VS Electric Cars</p>
+              <p class="text-white/70 font-light text-sm">
+                Will hydrogen-fueled cars ever catch up to EVs?</p>
+              </div>
+              <hr class="text-white/50">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="">
+          <div class=""><p>The Bright Future of Web 3.0?</p></div>
+          <div class=""></div>
+        </div>
+        <div class=""></div>
+      </div>
